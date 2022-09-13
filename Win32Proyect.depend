@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1662387033 source:c:\users\user\documents\gameprojectt\win32proyect\main.cpp
+	<iostream>
+	"Window.h"
+
+1663076803 c:\users\user\documents\gameprojectt\win32proyect\window.h
+	<Windows.h>
+
+1663077718 source:c:\users\user\documents\gameprojectt\win32proyect\window.cpp
+	"Window.h"
+	"PrincipalFuntion.cpp"
+
+1662683409 c:\users\user\documents\gameprojectt\win32proyect\principalfunction.h
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Window.h"
+
+1663077035 c:\users\user\documents\gameprojectt\win32proyect\principalfuntion.cpp
+	"PrincipalFunction.h"
+
